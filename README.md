@@ -1,4 +1,4 @@
-LTP Historicall releases
+LTP Historical releases
 ========================
 
 This mirrors historical released tarballs and CVS from sourceforge in a case
